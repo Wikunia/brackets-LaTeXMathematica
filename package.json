@@ -1,0 +1,9 @@
+{
+    "name": "latexmathematica",
+    "title": "LaTeXMathematica",
+    "author": "Ole Kröger",
+    "homepage": "https://github.com/Wikunia/brackets-LaTeXMathematica",
+    "version": "0.0.2",
+    "engines": { "brackets": ">=0.23" },
+    "description": "Use the power of WolframAlpha inside your LaTeX document"
+}
