@@ -25,6 +25,13 @@ generates:
 \]
 ```
 
+## Changelog
+- 0.0.3 
+>  Generate tables  
+> `Table[{x,\sin(x),\cos(x),x^2,x^3},{x,-2\pi,2\pi,\pi/2}] =`  
+> ![table](https://cloud.githubusercontent.com/assets/4931746/3771347/26a429e6-18f4-11e4-9a7c-265dca02f0f7.png)
+
+
 This extension uses the [WolframAlpha API](http://products.wolframalpha.com/api/).
 
 ### License
